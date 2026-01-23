@@ -8,10 +8,10 @@
     I specialize in building <b>high-performance engines</b>, real-time <b>simulations</b>, and exploring the depths of <b>computer graphics</b>. My passion lies in understanding how software interacts with hardware at a low level.
   </p>
 
-  <a href="LINKEDIN_LINKI_BURAYA" target="_blank">
+  <a href="www.linkedin.com/in/alan-yusufoglu-426683293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:MAIL_ADRESIN_BURAYA">
+  <a href="mailto:alanyusufoglu5@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
    <a href="https://github.com/alanysfgl">
