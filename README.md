@@ -8,7 +8,7 @@
     I specialize in building <b>high-performance engines</b>, real-time <b>simulations</b>, and exploring the depths of <b>computer graphics</b>. My passion lies in understanding how software interacts with hardware at a low level.
   </p>
 
-  <a href="www.linkedin.com/in/alan-yusufoglu-426683293" target="_blank">
+  <a href="https://www.linkedin.com/in/alan-yusufoglu-426683293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:alanyusufoglu5@gmail.com">
