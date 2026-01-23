@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Alan Yusufoğlu 👋</h1>
 
-  ### C++ Systems Programmer | Game Engine Developer | Graphics Enthusiast
+  ###  Low-Level Programmer | Game Engine Developer | Embedded Systems Enthusiast
 
   <p>
     I specialize in building <b>high-performance engines</b>, real-time <b>simulations</b>, and exploring the depths of <b>computer graphics</b>. My passion lies in understanding how software interacts with hardware at a low level.
@@ -39,18 +39,18 @@ My primary focus is **C++** development within graphics and systems domains.
 
 Here are some of my key projects demonstrating low-level programming and architectural design.
 
-### 🪐 1. Physics Engine Simulation Library
-*A custom 2D physics simulation library built from scratch in C++.*
-> Bu proje, hazır motorlar kullanmadan vektör matematiği ve kinematik hesaplamaları anladığımı gösterir.
-* **Key Tech:** C++, Custom Math Structures, Collision Detection (AABB).
-* **Focus:** Kinematic movement, velocity integration, real-time simulation loop.
+### 🪐 1. Kinematic Physics Simulation (Mathematical Modeling)
+*A custom computational engine enabling real-time physical analysis.*
+> Bu projeyi  fizik kurallarının (yerçekimi, çarpışma, ivme) bilgisayar ortamında matematiksel olarak nasıl modellendiğini kavramak için geliştirdim.
+* **Key Tech:** C++, Vector Calculus, Numerical Integration (Euler Methods).
+* **Focus:** Rigid Body Dynamics, Force accumulation, Discrete Event Simulation.
 * [📂 **View Source Code**](https://github.com/alanysfgl/Physics-Engine-Custom-2D-physics-engine-with-collision-detection-and-kinematic-movement-in-C-)
 
-### 🎨 2. 2D Graphics Rendering Engine
-*A raw rendering engine aimed at understanding the modern graphics pipeline.*
-> OpenGL ve shader (GLSL) yönetimini temelden ele alan bir grafik motoru altyapısı.
-* **Key Tech:** C++, OpenGL, GLFW, GLEW, GLM, ImGui.
-* **Focus:** Texture handling, Shader abstraction, Batch rendering concepts.
+### 🎨 2. Real-Time Rendering Environment (Visual Simulation)
+*A graphical simulation framework built from scratch.*
+> Simülasyon verilerinin (radar ekranı, durum tespiti vb.) ekrana anlık olarak çizdirilmesi (rendering pipeline) üzerine çalıştığım projedir.
+* **Key Tech:** C++, OpenGL, Coordinate Systems.
+* **Focus:** Matrix Transformations, Frame-time optimization, Data visualization.
 * [📂 **View Source Code**](https://github.com/alanysfgl/2DRenderer)
 
 ### 📡 3. Low-Level HTTP Client
