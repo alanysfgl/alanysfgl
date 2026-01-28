@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Alan Yusufoğlu 👋</h1>
 
-  ###  Low-Level Programmer | Game Engine Developer | Embedded Systems Enthusiast
+  ###  Low-Level Programmer | Embedded Systems Enthusiast
 
   <p>
     I specialize in building <b>high-performance engines</b>, real-time <b>simulations</b>, and exploring the depths of <b>computer graphics</b>. My passion lies in understanding how software interacts with hardware at a low level.
